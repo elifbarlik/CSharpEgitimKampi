@@ -1,0 +1,8 @@
+C:\Users\elifb\Desktop\CSharpEitimKampi\07_ForeachLoop\07_ForeachLoop\bin\Debug\07_ForeachLoop.exe.config
+C:\Users\elifb\Desktop\CSharpEitimKampi\07_ForeachLoop\07_ForeachLoop\bin\Debug\07_ForeachLoop.exe
+C:\Users\elifb\Desktop\CSharpEitimKampi\07_ForeachLoop\07_ForeachLoop\bin\Debug\07_ForeachLoop.pdb
+C:\Users\elifb\Desktop\CSharpEitimKampi\07_ForeachLoop\07_ForeachLoop\obj\Debug\07_ForeachLoop.csproj.AssemblyReference.cache
+C:\Users\elifb\Desktop\CSharpEitimKampi\07_ForeachLoop\07_ForeachLoop\obj\Debug\07_ForeachLoop.csproj.SuggestedBindingRedirects.cache
+C:\Users\elifb\Desktop\CSharpEitimKampi\07_ForeachLoop\07_ForeachLoop\obj\Debug\07_ForeachLoop.csproj.CoreCompileInputs.cache
+C:\Users\elifb\Desktop\CSharpEitimKampi\07_ForeachLoop\07_ForeachLoop\obj\Debug\07_ForeachLoop.exe
+C:\Users\elifb\Desktop\CSharpEitimKampi\07_ForeachLoop\07_ForeachLoop\obj\Debug\07_ForeachLoop.pdb

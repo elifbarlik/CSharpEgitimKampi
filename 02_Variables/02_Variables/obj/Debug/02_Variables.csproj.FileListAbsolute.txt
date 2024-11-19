@@ -1,0 +1,8 @@
+C:\Users\elifb\Desktop\CSharpEitimKampi\02_Variables\02_Variables\bin\Debug\02_Variables.exe.config
+C:\Users\elifb\Desktop\CSharpEitimKampi\02_Variables\02_Variables\bin\Debug\02_Variables.exe
+C:\Users\elifb\Desktop\CSharpEitimKampi\02_Variables\02_Variables\bin\Debug\02_Variables.pdb
+C:\Users\elifb\Desktop\CSharpEitimKampi\02_Variables\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+C:\Users\elifb\Desktop\CSharpEitimKampi\02_Variables\02_Variables\obj\Debug\02_Variables.csproj.SuggestedBindingRedirects.cache
+C:\Users\elifb\Desktop\CSharpEitimKampi\02_Variables\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\elifb\Desktop\CSharpEitimKampi\02_Variables\02_Variables\obj\Debug\02_Variables.exe
+C:\Users\elifb\Desktop\CSharpEitimKampi\02_Variables\02_Variables\obj\Debug\02_Variables.pdb

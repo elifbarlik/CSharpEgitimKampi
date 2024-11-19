@@ -1,0 +1,8 @@
+C:\Users\elifb\Desktop\CSharpEitimKampi\01_MainSubjects\01_MainSubjects\bin\Debug\01_MainSubjects.exe.config
+C:\Users\elifb\Desktop\CSharpEitimKampi\01_MainSubjects\01_MainSubjects\bin\Debug\01_MainSubjects.exe
+C:\Users\elifb\Desktop\CSharpEitimKampi\01_MainSubjects\01_MainSubjects\bin\Debug\01_MainSubjects.pdb
+C:\Users\elifb\Desktop\CSharpEitimKampi\01_MainSubjects\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.AssemblyReference.cache
+C:\Users\elifb\Desktop\CSharpEitimKampi\01_MainSubjects\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\elifb\Desktop\CSharpEitimKampi\01_MainSubjects\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\elifb\Desktop\CSharpEitimKampi\01_MainSubjects\01_MainSubjects\obj\Debug\01_MainSubjects.exe
+C:\Users\elifb\Desktop\CSharpEitimKampi\01_MainSubjects\01_MainSubjects\obj\Debug\01_MainSubjects.pdb
